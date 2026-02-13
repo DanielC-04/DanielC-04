@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DanielC-04&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=DanielC-04&theme=solarized&column=4&margin-w=15&no-bg=true" alt="Mis Trofeos de GitHub" />
   </a>
 </div>
 
