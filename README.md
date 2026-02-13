@@ -403,9 +403,11 @@
 
 ---
 
+<hr>
+
 <div align="center">
-  <p><i>Visitante número:</i></p>
-  <img src="https://profile-counter.glitch.me/DanielC-04/count.svg" />
+  <p><b>Gracias Por Visitarme</b></p>
+  <img src="https://komarev.com/ghpvc/?username=DanielC-04&color=3382f6&style=flat-square&label=VISITAS" alt="Contador de visitas" />
   <br><br>
   <p>⭐ Si te gusta mi trabajo, considera darle una estrella a mis repositorios ⭐</p>
 </div>
