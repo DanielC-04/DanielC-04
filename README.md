@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU-EMAIL@GMAIL.COM" target="blank">
+  <a href="mailto:dsotillo20@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/DanielC-04" target="blank">
@@ -352,48 +352,24 @@
 
 <div align="center">
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielC-04&theme=solarized_dark">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielC-04&theme=solarized_dark">
-</div>
-
-<div align="center">
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielC-04&theme=solarized_dark">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielC-04&theme=solarized_dark&utcOffset=-5">
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielC-04&theme=solarized_dark&hide_border=true&background=002B36" alt="streak stats"/>
 </div>
 
 <br>
 
 ---
 
-## Tiempo de actividad en desarrollo
+## Actividad de Desarrollo
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MistW&theme=solarized_dark&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielC-04&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
-
 
 <br>
 
 ---
 
-## Spotify - Escuchando Ahora
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU-SPOTIFY-USER-ID&cover_image=true&theme=default&show_offline=false&background_color=002b36&interchange=false&bar_color=3382f6&bar_color_cover=true" />
-</div>
-
-<p align="center">
-  <i>🎧 Para activar: Ve a <a href="https://spotify-github-profile.vercel.app/api/view">este generador</a>, autoriza con Spotify y copia tu user ID</i>
-</p>
-
-<br>
-
----
-
-## Contribuciones
+## Mi Día a Día
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DanielC-04/DanielC-04/output/ocean.gif" alt="Snake Game" />
@@ -403,11 +379,10 @@
 
 ---
 
-<hr>
-
 <div align="center">
   <p><b>Gracias Por Visitarme</b></p>
   <img src="https://komarev.com/ghpvc/?username=DanielC-04&color=3382f6&style=flat-square&label=VISITAS" alt="Contador de visitas" />
+
   <br><br>
   <p>⭐ Si te gusta mi trabajo, considera darle una estrella a mis repositorios ⭐</p>
 </div>
