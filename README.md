@@ -396,12 +396,8 @@
 ## Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DanielC-04/DanielC-04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DanielC-04/DanielC-04/output/ocean.gif" alt="Snake Game" />
 </div>
-
-<p align="center">
-  <i>🔧 Para activar: Sigue las instrucciones en <a href="https://github.com/Platane/snk">este repositorio</a> para generar la animación</i>
-</p>
 
 <br>
 
