@@ -1,75 +1,417 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=280&section=header&text=Hola,%20soy%20Daniel!&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20.NET%20&%20Angular%20Specialist&descAlignY=55&descAlign=50" />
+  
+  <!-- Banner personalizado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382F6,100:512BD4&height=200&section=header&text=Daniel%20-%20Full%20Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=.NET%20|%20Angular%20|%20Cloud%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  
+  <h1>👋 Hola, soy Daniel</h1>
+  <h3>Desarrollador de Software | .NET & Angular</h3>
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F6&center=true&vCenter=true&width=600&lines=Construyendo+APIs+con+.NET+8+y+Clean+Architecture;Desplegando+en+Azure+Kubernetes+Service+(AKS);Creando+UIs+modernas+con+Angular+21;Automatizando+tests+con+Playwright;Entrenando+mi+propio+AI+Agent+(Jarvis)..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3382F6&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+y+Frontend;Integrando+APIs+y+Servicios+Cloud;Explorando+AI+Agents+y+MongoDB;Musico+(Saxofon)+y+Entusiasta+del+Gym;Aprendiendo+cada+dia+en+LogicStudio..." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN">
+  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU-EMAIL@GMAIL.COM">
+  <a href="mailto:TU-EMAIL@GMAIL.COM" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/TU-TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://github.com/DanielC-04" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-### 👨‍💻 Sobre mí
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
-
-¡Qué tal! Soy un desarrollador apasionado basado en **Panamá** 🇵🇦. Me especializo en el desarrollo Full Stack utilizando el ecosistema de Microsoft.
-
-Actualmente, estoy llevando mis habilidades al siguiente nivel:
-* 🏢 **Internship:** Desarrollando soluciones empresariales reales.
-* ☁️ **Cloud:** Dominando **Azure** (VMs, AKS, Entra ID).
-* 🤖 **AI:** Experimentando con **LiveKit** para crear agentes de voz.
-* ⚡ **Hobby:** Entrenando en el gym (Modo *Heavy Duty*) y configurando mi entorno en Notion.
-
----
-
-### 🛠️ Arsenal Tecnológico
-
 <div align="center">
-
-| **Backend & Data** | **Frontend** | **Cloud & DevOps** | **Testing & Tools** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=dotnet,cs,ef,sqlserver" width="50"/> | <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap" width="50"/> | <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,linux" width="50"/> | <img src="https://skillicons.dev/icons?i=playwright,git,postman,notion,vscode" width="50"/> |
-| .NET 8, EF Core | Angular 21, RxJS | AKS, Docker | E2E Testing |
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DanielC-04&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
 
+<br>
+
 ---
 
-### 📊 GitHub Stats
+## Sobre mí
 
-<div align="center">
+<table border="0" align="center">
+  <tr>
+    <td width="300" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" width="100%" style="border-radius: 8px;" />
+    </td>
+    <td width="350" valign="top">
+      <h3>💼 Info Profesional</h3>
+      <pre>
+🆔 GitHub ID: 211860013
+👨‍💻 Rol: Pasante de Desarrollo
+🏢 Empresa: LogicStudio (Panamá)
+🔭 Enfoque: Desarrollo Web Full-Stack
+💻 Stack: .NET + Angular
+🎷 Hobby: Músico (Saxofón)
+🏋️ Lifestyle: Gym & Disciplina
+🤖 Interés: AI Agents
+</pre>
+    </td>
+    <td width="450" valign="top">
+      <br>
+      <p align="justify">
+        Soy un desarrollador en constante formación, actualmente desempeñándome como <b>Pasante en LogicStudio</b>, donde tengo la oportunidad de aplicar y pulir mis conocimientos en entornos reales. Mi base técnica comenzó en el desarrollo móvil y la integración de hardware (IoT), pero mi curiosidad me llevó a expandirme hacia el desarrollo web empresarial y la nube.
+      </p>
+      <p align="justify">
+        Mi enfoque principal está en el <b>desarrollo web full-stack</b>, construyendo soluciones robustas con <b>.NET</b> en el backend y <b>Angular</b> en el frontend. Aplico principios de arquitectura limpia, patrones de diseño y mejores prácticas para entregar código mantenible y escalable. Además, tengo experiencia integrando bases de datos relacionales y NoSQL, así como desplegando aplicaciones en entornos cloud.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages graph" />
+<p align="center">
+  <i>Fuera del código, aplico la misma disciplina que uso para programar en mis pasiones personales. Soy músico saxofonista 🎷 y asisto regularmente al gimnasio 🏋️. Estas actividades me han enseñado que la constancia y la práctica diaria son las claves para dominar cualquier habilidad, ya sea una escala musical o un nuevo lenguaje de programación.</i>
 </p>
 
-</div>
+<br>
 
-### 📈 Mi Actividad (The Snake Game)
+---
+
+## Stack Tecnológico
+
+### Desarrollo Frontend
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Frameworks & Librerías
+- **Angular 21** - Componentes, servicios, directivas, RxJS
+- **HTML5 & CSS3** - Maquetación semántica y estilos modernos
+- **Bootstrap** - Diseño responsivo y componentes UI
+
+</td>
+<td width="50%" valign="top">
+
+#### Low-Code
+- **Microsoft Power Apps** - Aplicaciones empresariales rápidas
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
+  <img src="https://img.shields.io/badge/Angular_21-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-power-apps&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Desarrollo Backend & APIs
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Frameworks & Tecnologías
+- **.NET 8 / .NET Core** - Web APIs de alto rendimiento
+- **ASP.NET Core** - Controladores, DI y middleware
+- **Node.js** - Scripts y microservicios ligeros
+
+#### Arquitectura & Patrones
+- **Clean Architecture (Onion)** - Separación de responsabilidades
+- **MVC** - Model-View-Controller
+- **SOLID** - Principios de diseño
+- **Repository Pattern** - Abstracción de datos
+
+</td>
+<td width="50%" valign="top">
+
+#### Seguridad
+- **JWT** - Autenticación y autorización
+- **Azure Entra ID** - Gestión de identidad en la nube
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Lenguajes de Programación
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Principales
+- **C#** - Principal. APIs, Backend con .NET 8 y lógica de negocio
+- **TypeScript** - Frontend robusto con Angular, tipado estático
+- **JavaScript (ES6+)** - Scripting, manipulación del DOM y Node.js
+
+</td>
+<td width="50%" valign="top">
+
+#### Adicionales
+- **Java** - Base académica sólida y desarrollo Android nativo
+- **Kotlin** - Desarrollo moderno para Android nativo
+- **Python** - Scripting, automatización y agentes de IA
+- **PHP** - Backend ligero y APIs RESTful
+- **C** - Fundamentos, manejo de memoria y estructuras
+- **Visual Basic .NET** - Mantenimiento de aplicaciones legacy
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</div>
+
+<br>
+
+### Desarrollo Móvil & IoT
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Plataformas & Lenguajes
+- **Android Nativo** - Android Studio, SDK de Android
+- **Kotlin & Java** - Desarrollo de aplicaciones móviles
+
+#### Características Avanzadas
+- **Foreground Services** - Procesos en segundo plano
+- **Notificaciones Locales** - Alertas sin internet
+
+</td>
+<td width="50%" valign="top">
+
+#### Internet of Things (IoT)
+- **Bluetooth Low Energy (BLE)** - Comunicación con dispositivos
+- **Beacons (FeasyBeacon)** - Proximidad y geolocalización indoor
+- **BeaconManager** - Integración de hardware
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-0066CC?style=for-the-badge&logo=internet-of-things&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Bases de Datos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Relacionales (SQL)
+- **SQL Server** - Diseño de esquemas, Stored Procedures, T-SQL
+- **MySQL** - Gestión de bases de datos web/móviles
+
+#### ORM
+- **Entity Framework Core** - Code First / DB First
+
+</td>
+<td width="50%" valign="top">
+
+#### No Relacionales (NoSQL)
+- **MongoDB** - Almacenamiento de documentos JSON flexible
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Cloud & DevOps (Fundamentos)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Microsoft Azure - Conocimientos Básicos
+- **Azure App Services** - Despliegue de aplicaciones web
+- **Azure SQL Database** - Bases de datos en la nube
+- **Azure Kubernetes Service (AKS)** - Conceptos de contenedores
+- **Virtual Machines (VMs)** - Configuración básica
+
+</td>
+<td width="50%" valign="top">
+
+#### Herramientas DevOps
+- **Docker** - Creación de imágenes y contenedores
+- **GitHub Actions** - Flujos de trabajo automatizados
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Testing & Herramientas
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Testing & QA
+- **Playwright** - Pruebas E2E para aplicaciones web
+- **Postman** - Testing de APIs y documentación
+
+#### Control de Versiones
+- **Git** - Flujo de trabajo con ramas y Pull Requests
+- **GitHub** - Repositorios y colaboración
+
+</td>
+<td width="50%" valign="top">
+
+#### IDEs & Editores
+- **Visual Studio 2022** - Desarrollo .NET
+- **Visual Studio Code** - Editor multilenguaje
+- **Android Studio** - Desarrollo móvil
+
+#### Inteligencia Artificial
+- **AI Agents** - Creación de asistentes inteligentes
+- **LiveKit** - Integración de voz y video para IA
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## Tecnologías que Estoy Aprendiendo
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-0088CC?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-FF6F00?style=for-the-badge&logo=files&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-1BA672?style=for-the-badge&logo=microservices&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/AI_Automation-412991?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
+
+<br>
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielC-04&theme=solarized_dark">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" />
-  <p align="center">Visitors count<br>
-  <img src="https://profile-counter.glitch.me/TU-USUARIO/count.svg" />
-  </p>
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielC-04&theme=solarized_dark">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielC-04&theme=solarized_dark">
 </div>
 
+<div align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielC-04&theme=solarized_dark">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielC-04&theme=solarized_dark&utcOffset=-5">
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielC-04&theme=solarized_dark&hide_border=true&background=002B36" alt="streak stats"/>
+</div>
+
+<br>
+
+---
+
+## Tiempo de actividad en desarrollo
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MistW&theme=solarized_dark&layout=compact" />
+</div>
+
+
+<br>
+
+---
+
+## Spotify - Escuchando Ahora
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU-SPOTIFY-USER-ID&cover_image=true&theme=default&show_offline=false&background_color=002b36&interchange=false&bar_color=3382f6&bar_color_cover=true" />
+</div>
+
+<p align="center">
+  <i>🎧 Para activar: Ve a <a href="https://spotify-github-profile.vercel.app/api/view">este generador</a>, autoriza con Spotify y copia tu user ID</i>
+</p>
+
+<br>
+
+---
+
+## Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DanielC-04/DanielC-04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<p align="center">
+  <i>🔧 Para activar: Sigue las instrucciones en <a href="https://github.com/Platane/snk">este repositorio</a> para generar la animación</i>
+</p>
+
+<br>
+
+---
+
+<div align="center">
+  <p><i>Visitante número:</i></p>
+  <img src="https://profile-counter.glitch.me/DanielC-04/count.svg" />
+  <br><br>
+  <p>⭐ Si te gusta mi trabajo, considera darle una estrella a mis repositorios ⭐</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382F6,100:512BD4&height=120&section=footer" width="100%"/>
