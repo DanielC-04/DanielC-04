@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner personalizado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382F6,100:512BD4&height=200&section=header&text=Daniel%20-%20Full%20Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=.NET%20|%20Angular%20|%20Cloud%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382F6,100:512BD4&height=200&section=header&text=Daniel%20-%20Software%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=.NET%20|%20Angular%20|%20Cloud%20|%20SQL%20Server&descAlignY=55&descSize=18" width="100%"/>
   
   <h1>👋 Hola, soy Daniel</h1>
   <h3>Desarrollador de Software | .NET & Angular</h3>
@@ -37,6 +37,7 @@
 
 ## Sobre mí
 
+
 <table border="0" align="center">
   <tr>
     <td width="300" align="center" valign="center">
@@ -46,26 +47,28 @@
       <h3>💼 Info Profesional</h3>
       <pre>
 🆔 GitHub ID: 211860013
+🎓 Estudiante: UTP - Sede Coclé
 👨‍💻 Rol: Pasante de Desarrollo
 🏢 Empresa: LogicStudio (Panamá)
 🔭 Enfoque: Desarrollo Web Full-Stack
 💻 Stack: .NET + Angular
 🎷 Hobby: Músico (Saxofón)
 🏋️ Lifestyle: Gym & Disciplina
-🤖 Interés: AI Agents
+🤖 Interés: Servicios en la nube
 </pre>
     </td>
     <td width="450" valign="top">
       <br>
       <p align="justify">
-        Soy un desarrollador en constante formación, actualmente desempeñándome como <b>Pasante en LogicStudio</b>, donde tengo la oportunidad de aplicar y pulir mis conocimientos en entornos reales. Mi base técnica comenzó en el desarrollo móvil y la integración de hardware (IoT), pero mi curiosidad me llevó a expandirme hacia el desarrollo web empresarial y la nube.
+        Soy estudiante de la <b>Universidad Tecnológica de Panamá - Sede Coclé</b> y actualmente trabajo como <b>Pasante en LogicStudio</b>, donde aplico lo que aprendo en la universidad en proyectos reales. Empecé con desarrollo móvil e IoT, pero me he estado enfocando más en desarrollo web porque es el área donde quiero especializarme.
       </p>
       <p align="justify">
-        Mi enfoque principal está en el <b>desarrollo web full-stack</b>, construyendo soluciones robustas con <b>.NET</b> en el backend y <b>Angular</b> en el frontend. Aplico principios de arquitectura limpia, patrones de diseño y mejores prácticas para entregar código mantenible y escalable. Además, tengo experiencia integrando bases de datos relacionales y NoSQL, así como desplegando aplicaciones en entornos cloud.
+        Estoy aprendiendo a desarrollar aplicaciones <b>full-stack</b> usando <b>.NET</b> para el backend y <b>Angular</b> para el frontend. Me interesa aplicar buenas prácticas como arquitectura limpia y patrones de diseño. También estoy familiarizándome con bases de datos SQL y NoSQL, y los fundamentos de despliegue en la nube.
       </p>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <i>Fuera del código, aplico la misma disciplina que uso para programar en mis pasiones personales. Soy músico saxofonista 🎷 y asisto regularmente al gimnasio 🏋️. Estas actividades me han enseñado que la constancia y la práctica diaria son las claves para dominar cualquier habilidad, ya sea una escala musical o un nuevo lenguaje de programación.</i>
