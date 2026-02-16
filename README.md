@@ -118,7 +118,7 @@
 <td width="50%" valign="top">
 
 #### Frameworks & Tecnologías
-- **.NET 8 / .NET Core** - Web APIs de alto rendimiento
+- **.NET 8+ / .NET Core** - Web APIs de alto rendimiento
 - **ASP.NET Core** - Controladores, DI y middleware
 - **Node.js** - Scripts y microservicios ligeros
 
