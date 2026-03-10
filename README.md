@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/danielcarrasco02" target="blank">
+  <a href="https://www.linkedin.com/in/danielcarrasco02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dsotillo20@gmail.com" target="blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=dsotillo20@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/DanielC-04" target="blank">
+  <a href="https://github.com/DanielC-04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
