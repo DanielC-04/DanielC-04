@@ -49,7 +49,7 @@
 🆔 GitHub ID: 211860013
 🎓 Estudiante: UTP - Sede Coclé
 👨‍💻 Rol: Pasante de Desarrollo
-🏢 Empresa: LogicStudio (Panamá)
+🏢 Empresa: Agente Libre
 🔭 Enfoque: Desarrollo Web Full-Stack
 💻 Stack: .NET + Angular
 🎷 Hobby: Músico (Saxofón)
@@ -60,7 +60,7 @@
     <td width="450" valign="top">
       <br>
       <p align="justify">
-        Soy estudiante de la <b>Universidad Tecnológica de Panamá - Sede Coclé</b> y actualmente trabajo como <b>Pasante en LogicStudio</b>, donde aplico lo que aprendo en la universidad en proyectos reales. Empecé con desarrollo móvil e IoT, pero me he estado enfocando más en desarrollo web porque es el área donde quiero especializarme.
+        Soy estudiante de la <b>Universidad Tecnológica de Panamá - Sede Coclé</b> y actualmente trabajo como <b>Desarrollador informal</b>, donde aplico lo que aprendo en la universidad en proyectos reales. Con una experiencia sólida en conocimientos y expasante de la empresa LogicStudio. Empecé con desarrollo móvil e IoT, pero me he estado enfocando más en desarrollo web porque es el área donde quiero especializarme.
       </p>
       <p align="justify">
         Estoy aprendiendo a desarrollar aplicaciones <b>full-stack</b> usando <b>.NET</b> para el backend y <b>Angular</b> para el frontend. Me interesa aplicar buenas prácticas como arquitectura limpia y patrones de diseño. También estoy familiarizándome con bases de datos SQL y NoSQL, y los fundamentos de despliegue en la nube.
